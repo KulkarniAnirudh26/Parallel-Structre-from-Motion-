@@ -10,3 +10,6 @@ This repository contains a parallel implementation of Parallel SFM
 Inorder to install the requirements, 
 pip install -r requirements.txt
 
+You will need to run 
+1. SFM_CPU_Version on your local jupyter notebook
+2. SFM_CUDA_Version on google collaboratory. 
