@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 You will need to run 
 1. SFM_CPU_Version on your local jupyter notebook
-2. SFM_CUDA_Version on google collaboratory. 
+2. SFM_GPU_Version on google collaboratory. 
 
 Before Running the ipynb file, please setup the data on your drive:
 1. Upload the "data" folder to your google drive.
