@@ -48,3 +48,12 @@ output_dir = 'drive/My Drive/data/Output' # Folder to save output results
     │      └── params.txt
     └── Output
 ```
+
+### Authors
+
+The serial version is borrow from [Pranav Kadam's](https://github.com/pranavkdm) SfM Implementation. 
+This code has extended to the parallel version by:
+
+* **Anirudh Kulkarni** - [PurpleBooth](https://github.com/KulkarniAnirudh26)
+* **Anand Ravi** - [PurpleBooth](https://github.com/anandravi24)
+* **Siddhant Nadkarni** - [PurpleBooth](https://github.com/SiddhantNadkarni)
