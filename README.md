@@ -54,6 +54,6 @@ output_dir = 'drive/My Drive/data/Output' # Folder to save output results
 The serial version is borrow from [Pranav Kadam's](https://github.com/pranavkdm) SfM Implementation. 
 This code has extended to the parallel version by:
 
-* **Anirudh Kulkarni** - [PurpleBooth](https://github.com/KulkarniAnirudh26)
-* **Anand Ravi** - [PurpleBooth](https://github.com/anandravi24)
-* **Siddhant Nadkarni** - [PurpleBooth](https://github.com/SiddhantNadkarni)
+* **Anirudh Kulkarni** - [KulkarniAnirudh26](https://github.com/KulkarniAnirudh26)
+* **Anand Ravi** - [anandravi24](https://github.com/anandravi24)
+* **Siddhant Nadkarni** - [SiddhantNadkarni](https://github.com/SiddhantNadkarni)
