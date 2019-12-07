@@ -18,8 +18,8 @@ You will need to run
 
 Before Running the ipynb file, please setup the data on your drive:
 1. Upload the "data" folder to your google drive.
-2. In the google notebook, you will mount this drive on it.
-3. In the main function, please setup the paths to:
+2. In the google notebook, you will be mounting your drive.
+3. In the main function, please setup the paths for the input images and instrinsic params:
 ```
 img_pattern = 'drive/My Drive/data/folder1/*.ppm' 
 intrinsic = intrinsic_reader('drive/My Drive/data/folder1/intrinsics.txt') # Retrieve intrinsic parameters
@@ -28,6 +28,7 @@ intrinsic = intrinsic_reader('drive/My Drive/data/folder1/intrinsics.txt') # Ret
 ```
 output_dir = 'drive/My Drive/data/Output' # Folder to save output results
 ```
+
 
 ### data Directory Layout
 
