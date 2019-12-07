@@ -51,8 +51,8 @@ output_dir = 'drive/My Drive/data/Output' # Folder to save output results
 
 ### Authors
 
-The serial version is borrow from [Pranav Kadam's](https://github.com/pranavkdm) SfM Implementation. 
-This code has extended to the parallel version by:
+The serial version is borrowed from [Pranav Kadam's](https://github.com/pranavkdm) SfM Implementation. 
+This code has been extended to the parallel version by:
 
 * **Anirudh Kulkarni** - [KulkarniAnirudh26](https://github.com/KulkarniAnirudh26)
 * **Anand Ravi** - [anandravi24](https://github.com/anandravi24)
