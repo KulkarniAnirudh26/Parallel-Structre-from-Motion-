@@ -1,4 +1,4 @@
-# Parallel_SFM
+# Parallel Structure from Motion 
 This repository contains a parallel implementation of Parallel SFM
 
 ### Requirements
